@@ -1,0 +1,16 @@
+
+
+input {
+    width: 48px;
+}
+
+.title{
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+footer{
+    margin-top: 150px;
+}
